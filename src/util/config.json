@@ -1,0 +1,40 @@
+{
+    "title":"Mobile Shop",
+    "description" : "At Netik Mobile Service, we're your trusted partner for all your mobile device needs. We understand that your smartphone is not just a gadget; it's an essential part of your daily life. Whether you're dealing with a cracked screen, struggling with software issues, or just want to upgrade to the latest model, we've got you covered with top-quality services and solutions.",
+    "theme":{
+        "primaryColor": "#d9184e",
+        "secondaryColor" : "#ed4e7b",
+        "accentColor": "#ed9fe5"
+    },
+    
+    "serviceCardDirection":"row",
+    
+    "services":[
+        {
+            "title":"Mobile Repairs",
+            "description": "We specialize in repairing a wide range of mobile phone issues. From screen replacements and battery replacements to fixing water damage and software problems, our skilled technicians can handle it all.",
+            "price": 1000
+              
+        },
+        {
+            "title":"Screen Replacements",
+            "description": "Cracked screens are a common problem, but you don't have to live with them. We offer quick and affordable screen replacement services, so you can enjoy a crystal-clear display once again.",
+            "price": 500
+        },
+        {
+            "title":"Battery Replacements",
+            "description": "Is your phone's battery not holding a charge as it used to? We can provide battery replacement services, so you can stay connected without interruptions.",
+            "price": 1500
+        },
+        {
+            "title":"Software Solutions",
+            "description": "From software updates to addressing app-related issues, we can help you optimize your phone's performance and resolve software glitches",
+            "price": 1000
+        },
+        {
+            "title":"Data Recovery:",
+            "description": " Accidentally deleted important files or photos? Our data recovery services can help you retrieve your precious data.",
+            "price": 300
+        }
+    ]
+}
