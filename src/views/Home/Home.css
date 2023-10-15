@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.text-center{
+    text-align: center;
+    font-size: 40px;
+}
+.text-centers{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+}
+.card{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-body{
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px 1px rgb(1, 1, 1);
+    height: 300px;
+    width: 280px;
+   margin: 10px;
+}
+.card-title{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.card-text{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.text-cent{
+    text-align: center;
+}

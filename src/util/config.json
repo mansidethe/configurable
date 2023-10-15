@@ -4,7 +4,7 @@
     "theme":{
         "primaryColor": "#d9184e",
         "secondaryColor" : "#ed4e7b",
-        "accentColor": "#ed9fe5"
+        "accentColor": "#fff"
     },
     
     "serviceCardDirection":"row",
